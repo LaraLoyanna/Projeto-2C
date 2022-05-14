@@ -1,2 +1,8 @@
 # Projeto-2C
-Projeto LP 2022 
+# SISTEMA DE GERENCIAMENTO DA CANTINA DO IFBA- CAMPUS EUCLIDES DA CUNHA
+
+# Participantes:
+
+
+
+
