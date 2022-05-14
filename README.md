@@ -1,3 +1,7 @@
+![20220514_124442_0000](https://user-images.githubusercontent.com/88501040/168439055-6fb918d3-d180-4e01-8956-a907c9291a4d.png)
+
+
+
 <h1 align="center"> Projeto-2C 📚 </h1>
 <h1 align="center"> Sistema de Gerenciamento da Cantina do IFBA- Campus Euclides da Cunha </h1>
 					 
