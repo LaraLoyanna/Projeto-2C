@@ -8,7 +8,6 @@
 > # Participantes:
 
 + Arlinda Maria Moura Nunes (Email: nunesarlinda19@gmail.com)
-+ Erica Lorena Almeida do Nascimento (Email: nascimentoericalorena@gmail.com)
 + Lara Loyanna Pimentel da Silva (Email: laraloyannapimentel@gmail.com)
 + Regiane Brito de Santana (Email: regianebsantana5@gmail.com)
 + Victória Freire Santos Novaes de Sá (Email: victoria346573@gmail.com)
@@ -38,7 +37,6 @@ A empresa responsável pela Cantina do IFBA, tendo iniciado seu funcionamento a 
 
 + Victória Freire Santos Novaes de Sá - Líder
 + Arlinda Maria Moura Nunes - Responsável pela parte tecnológica (código)
-+ Erica Lorena Almeida do Nascimento - Realizar entrevista (alunos) 
 + Lara Loyanna Pimentel da Silva - Responsável pela parte tecnológica (código)
 + Regiane Brito de Santana - Realizar entrevistas (cliente)
 + Witalo Correia de Cerqueira - Escritor do projeto final
